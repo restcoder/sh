@@ -1,4 +1,6 @@
-curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
-sudo apt-get install -y nodejs
+#!/usr/bin/env bash
+
+nvm install v6
+nvm alias default node
 npm i -g restcoder-cli
 restcoder login
