@@ -4,4 +4,4 @@
 nvm install v6
 nvm alias default node
 npm i -g restcoder-cli
-restcoder login
+The CLI has been installed. Type `restcoder login` to log in.
