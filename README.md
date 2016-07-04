@@ -9,3 +9,6 @@
 
 ## Install python in c9.io
 `source <(curl -s https://raw.githubusercontent.com/restcoder/sh/master/c9-install-python.sh)`
+
+## Install .net (mono) in c9.io
+`source <(curl -s https://raw.githubusercontent.com/restcoder/sh/master/c9-install-dotnet.sh)`
