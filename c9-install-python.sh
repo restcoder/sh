@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+curl -s https://bootstrap.pypa.io/get-pip.py | python
 sudo pip install --upgrade pip
 pip install virtualenv
 python --version
