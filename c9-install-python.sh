@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-python get-pip.py
+sudo pip install --upgrade pip
 pip install virtualenv
 python --version
 pip --version
