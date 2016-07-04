@@ -1,5 +1,7 @@
 # RestCoder installation scripts
 
+Please use a Blank template from [c9.io](https://c9.io)
+
 ## Install CLI in c9.io
 `source <(curl -s https://raw.githubusercontent.com/restcoder/sh/master/c9-install.sh)`
 
