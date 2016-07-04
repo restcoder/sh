@@ -6,3 +6,6 @@
 
 ## Install ruby in c9.io
 `source <(curl -s https://raw.githubusercontent.com/restcoder/sh/master/c9-install-ruby.sh)`
+
+## Install python in c9.io
+`source <(curl -s https://raw.githubusercontent.com/restcoder/sh/master/c9-install-python.sh)`
