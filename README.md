@@ -3,7 +3,7 @@
 ## Base Setup
 
 Please use a Blank template from [c9.io](https://c9.io)  
-Paste below commands to termin in c9 IDE.
+Paste below commands to c9 terminal.
 
 ### Install CLI in c9.io
 `source <(curl -s https://raw.githubusercontent.com/restcoder/sh/master/c9-install.sh)`
