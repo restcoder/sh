@@ -7,4 +7,4 @@ nvm alias default node
 npm i -g https://github.com/restcoder/restcoder-cli#dev
 echo -e '\e[92mCLI installed successfully'
 echo -e '\e[92mPlease log in with your RestCoder credentials'
-restcoder login
+echo -e 'Type \e[91mrestcoder login'
